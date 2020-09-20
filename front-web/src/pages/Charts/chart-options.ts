@@ -38,7 +38,7 @@ export const pieOptions = {
         show: false,
       },
     },
-    colors: ["#ED7947"],
+    colors: ["#ed7947"],
     grid: {
       show: false,
     },
